@@ -1,0 +1,1 @@
+INSERT INTO "public"."inventory" ("productid", "productname", "productcategory", "stock", "price", "supplierid", "pointsvalue") VALUES (1, 'Tomato', 'Vegetable', 20, '0.50', 501, 5), (2, 'Milk', 'Dairy', 50, '2.00', 303, 20), (3, 'Bread', 'Bakery', 100, '1.00', 180, 10);
